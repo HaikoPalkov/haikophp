@@ -26,7 +26,14 @@
     $arv1 = 5;
     $arv2 = 6;
 
-    echo $arv1." + ".$arv2." = ".$arv1+$arv2."<br>";
+    echo $arv1." + ".$arv2." = ".$arv1+$arv2.
+    "<br>";
+    echo $arv1." - ".$arv2." = ".$arv1+$arv2.
+    "<br>";
+    echo $arv1." * ".$arv2." = ".$arv1+$arv2.
+    "<br>";
+    echo $arv1." / ".$arv2." = ".$arv1+$arv2.
+    "<br>";
 
 ?>
 </body>
